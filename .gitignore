@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.csv
+*.parquet
+*.feather
+data/
+*.csv.gz
+
