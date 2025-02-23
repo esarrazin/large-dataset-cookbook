@@ -4,4 +4,5 @@
 *.feather
 data/
 *.csv.gz
+.pixi/
 
