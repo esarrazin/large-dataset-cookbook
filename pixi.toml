@@ -1,8 +1,8 @@
 [project]
 authors = ["Emmanuelle Sarrazin <emmanuelle.sarrazin@cnes.fr>"]
 channels = ["conda-forge"]
-description = "Add a short description here"
-name = "big-data-processing-course_tp"
+description = "Cookbook for manage large datasets"
+name = "large-dataset-cookbook"
 platforms = ["linux-64"]
 version = "0.1.0"
 
