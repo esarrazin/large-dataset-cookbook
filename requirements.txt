@@ -1,7 +1,0 @@
-matplotlib
-numpy
-pandas
-notebook
-jupyerlab
-pyarrow
-memory-profiler
